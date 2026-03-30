@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-label="Travel bot recommendation flow graphic">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ecfcff"/>
+      <stop offset="100%" stop-color="#ffffff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="620" fill="url(#bg)"/>
+  <rect x="40" y="40" width="1120" height="540" rx="28" fill="#fff" stroke="#000" stroke-width="4"/>
+  <text x="90" y="110" font-family="Space Grotesk, Arial" font-size="42" font-weight="700" fill="#000">Mizu Travel Bot</text>
+  <text x="90" y="148" font-family="Space Grotesk, Arial" font-size="24" fill="#222">MCQ-based recommendation flow</text>
+
+  <rect x="90" y="210" width="300" height="240" rx="20" fill="#f7fdff" stroke="#000" stroke-width="3"/>
+  <text x="118" y="252" font-family="Space Grotesk, Arial" font-size="24" font-weight="700" fill="#000">1. Ask Preferences</text>
+  <text x="118" y="290" font-family="Space Grotesk, Arial" font-size="20" fill="#111">Budget</text>
+  <text x="118" y="320" font-family="Space Grotesk, Arial" font-size="20" fill="#111">Climate</text>
+  <text x="118" y="350" font-family="Space Grotesk, Arial" font-size="20" fill="#111">Activities</text>
+  <text x="118" y="380" font-family="Space Grotesk, Arial" font-size="20" fill="#111">Travel style</text>
+
+  <rect x="450" y="210" width="300" height="240" rx="20" fill="#e8fbff" stroke="#000" stroke-width="3"/>
+  <text x="478" y="252" font-family="Space Grotesk, Arial" font-size="24" font-weight="700" fill="#000">2. Match Signals</text>
+  <text x="478" y="290" font-family="Space Grotesk, Arial" font-size="20" fill="#111">Score responses</text>
+  <text x="478" y="320" font-family="Space Grotesk, Arial" font-size="20" fill="#111">Filter destinations</text>
+  <text x="478" y="350" font-family="Space Grotesk, Arial" font-size="20" fill="#111">Rank best options</text>
+
+  <rect x="810" y="210" width="300" height="240" rx="20" fill="#d6f7ff" stroke="#000" stroke-width="3"/>
+  <text x="838" y="252" font-family="Space Grotesk, Arial" font-size="24" font-weight="700" fill="#000">3. Recommend</text>
+  <text x="838" y="290" font-family="Space Grotesk, Arial" font-size="20" fill="#111">Top destination</text>
+  <text x="838" y="320" font-family="Space Grotesk, Arial" font-size="20" fill="#111">Alternative picks</text>
+  <text x="838" y="350" font-family="Space Grotesk, Arial" font-size="20" fill="#111">Next-step tips</text>
+
+  <path d="M390 330 L450 330" stroke="#00bcd4" stroke-width="8"/>
+  <polygon points="450,330 430,318 430,342" fill="#00bcd4"/>
+  <path d="M750 330 L810 330" stroke="#00bcd4" stroke-width="8"/>
+  <polygon points="810,330 790,318 790,342" fill="#00bcd4"/>
+</svg>

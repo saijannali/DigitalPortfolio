@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-label="Machine learning versus deep learning comparison graphic">
+  <rect width="1200" height="620" fill="#ffffff"/>
+  <rect x="40" y="40" width="1120" height="540" rx="28" fill="#fff" stroke="#000" stroke-width="4"/>
+  <text x="90" y="110" font-family="Space Grotesk, Arial" font-size="42" font-weight="700" fill="#000">ML vs Deep Learning</text>
+  <text x="90" y="148" font-family="Space Grotesk, Arial" font-size="24" fill="#222">Assignment 2.3 comparison</text>
+
+  <rect x="90" y="190" width="470" height="330" rx="18" fill="#effcff" stroke="#000" stroke-width="3"/>
+  <text x="130" y="242" font-family="Space Grotesk, Arial" font-size="30" font-weight="700" fill="#000">Machine Learning</text>
+  <text x="130" y="282" font-family="Space Grotesk, Arial" font-size="22" fill="#111">Use case: Gmail spam detection</text>
+  <text x="130" y="322" font-family="Space Grotesk, Arial" font-size="20" fill="#111">- Structured signals</text>
+  <text x="130" y="352" font-family="Space Grotesk, Arial" font-size="20" fill="#111">- Lower compute</text>
+  <text x="130" y="382" font-family="Space Grotesk, Arial" font-size="20" fill="#111">- Clear classification goal</text>
+  <text x="130" y="412" font-family="Space Grotesk, Arial" font-size="20" fill="#111">- Efficient baseline</text>
+
+  <rect x="640" y="190" width="470" height="330" rx="18" fill="#dbf8ff" stroke="#000" stroke-width="3"/>
+  <text x="680" y="242" font-family="Space Grotesk, Arial" font-size="30" font-weight="700" fill="#000">Deep Learning</text>
+  <text x="680" y="282" font-family="Space Grotesk, Arial" font-size="22" fill="#111">Use case: Autonomous driving</text>
+  <text x="680" y="322" font-family="Space Grotesk, Arial" font-size="20" fill="#111">- High-dimensional input</text>
+  <text x="680" y="352" font-family="Space Grotesk, Arial" font-size="20" fill="#111">- Real-time perception</text>
+  <text x="680" y="382" font-family="Space Grotesk, Arial" font-size="20" fill="#111">- Visual pattern extraction</text>
+  <text x="680" y="412" font-family="Space Grotesk, Arial" font-size="20" fill="#111">- Complex sensor fusion</text>
+
+  <circle cx="600" cy="355" r="32" fill="#00bcd4" stroke="#000" stroke-width="3"/>
+  <text x="586" y="363" font-family="Space Grotesk, Arial" font-size="24" font-weight="700" fill="#000">VS</text>
+</svg>
