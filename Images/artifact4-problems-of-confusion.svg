@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-label="Communication confusion to clarity workflow graphic">
+  <rect width="1200" height="620" fill="#ffffff"/>
+  <rect x="40" y="40" width="1120" height="540" rx="28" fill="#fff" stroke="#000" stroke-width="4"/>
+  <text x="90" y="110" font-family="Space Grotesk, Arial" font-size="42" font-weight="700" fill="#000">Problems of Confusion</text>
+  <text x="90" y="148" font-family="Space Grotesk, Arial" font-size="24" fill="#222">From unclear handoffs to shared understanding</text>
+
+  <rect x="90" y="210" width="300" height="270" rx="18" fill="#fff4f4" stroke="#000" stroke-width="3"/>
+  <text x="118" y="252" font-family="Space Grotesk, Arial" font-size="26" font-weight="700" fill="#000">Confusion Risks</text>
+  <text x="118" y="290" font-family="Space Grotesk, Arial" font-size="20" fill="#111">- Verbal-only handoff</text>
+  <text x="118" y="322" font-family="Space Grotesk, Arial" font-size="20" fill="#111">- Unclear role ownership</text>
+  <text x="118" y="354" font-family="Space Grotesk, Arial" font-size="20" fill="#111">- Release/test mismatch</text>
+  <text x="118" y="386" font-family="Space Grotesk, Arial" font-size="20" fill="#111">- Rework near deadlines</text>
+
+  <rect x="450" y="210" width="300" height="270" rx="18" fill="#f4fbff" stroke="#000" stroke-width="3"/>
+  <text x="478" y="252" font-family="Space Grotesk, Arial" font-size="26" font-weight="700" fill="#000">Clarity Framework</text>
+  <text x="478" y="290" font-family="Space Grotesk, Arial" font-size="20" fill="#111">1. Goal</text>
+  <text x="478" y="322" font-family="Space Grotesk, Arial" font-size="20" fill="#111">2. Owner</text>
+  <text x="478" y="354" font-family="Space Grotesk, Arial" font-size="20" fill="#111">3. Deadline</text>
+  <text x="478" y="386" font-family="Space Grotesk, Arial" font-size="20" fill="#111">4. Expected output</text>
+  <text x="478" y="418" font-family="Space Grotesk, Arial" font-size="20" fill="#111">5. Confirm understanding</text>
+
+  <rect x="810" y="210" width="300" height="270" rx="18" fill="#e6f9ff" stroke="#000" stroke-width="3"/>
+  <text x="838" y="252" font-family="Space Grotesk, Arial" font-size="26" font-weight="700" fill="#000">Team Outcomes</text>
+  <text x="838" y="290" font-family="Space Grotesk, Arial" font-size="20" fill="#111">- Better alignment</text>
+  <text x="838" y="322" font-family="Space Grotesk, Arial" font-size="20" fill="#111">- Less rework</text>
+  <text x="838" y="354" font-family="Space Grotesk, Arial" font-size="20" fill="#111">- Faster execution</text>
+  <text x="838" y="386" font-family="Space Grotesk, Arial" font-size="20" fill="#111">- Clear accountability</text>
+
+  <path d="M390 345 L450 345" stroke="#00bcd4" stroke-width="8"/>
+  <polygon points="450,345 430,333 430,357" fill="#00bcd4"/>
+  <path d="M750 345 L810 345" stroke="#00bcd4" stroke-width="8"/>
+  <polygon points="810,345 790,333 790,357" fill="#00bcd4"/>
+</svg>
