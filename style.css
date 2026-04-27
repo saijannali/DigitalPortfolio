@@ -230,6 +230,22 @@ a {
   color: var(--muted);
 }
 
+.artifact-section {
+  margin: 0 0 1rem;
+}
+
+.artifact-section h4 {
+  margin: 0 0 0.35rem;
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--accent-dark);
+}
+
+.artifact-section p {
+  margin: 0 0 0.55rem;
+}
+
 .artifact-image-wrap {
   margin: 0.8rem 0 1rem;
 }

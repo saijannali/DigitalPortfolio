@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-label="AI commercial applications newsletter graphic">
+  <rect width="1200" height="620" fill="#ffffff"/>
+  <rect x="40" y="40" width="1120" height="540" rx="28" fill="#fff" stroke="#000" stroke-width="4"/>
+  <text x="90" y="110" font-family="Space Grotesk, Arial" font-size="42" font-weight="700" fill="#000">AI Commercial Applications</text>
+  <text x="90" y="148" font-family="Space Grotesk, Arial" font-size="24" fill="#222">A quick newsletter snapshot across industries</text>
+
+  <rect x="90" y="210" width="300" height="250" rx="18" fill="#eefcff" stroke="#000" stroke-width="3"/>
+  <text x="118" y="252" font-family="Space Grotesk, Arial" font-size="26" font-weight="700" fill="#000">Healthcare</text>
+  <text x="118" y="292" font-family="Space Grotesk, Arial" font-size="20" fill="#111">Microsoft Dragon Copilot</text>
+  <text x="118" y="324" font-family="Space Grotesk, Arial" font-size="18" fill="#111">Clinical documentation</text>
+  <text x="118" y="352" font-family="Space Grotesk, Arial" font-size="18" fill="#111">Workflow support</text>
+  <text x="118" y="380" font-family="Space Grotesk, Arial" font-size="18" fill="#111">Human oversight: High</text>
+
+  <rect x="450" y="210" width="300" height="250" rx="18" fill="#def8ff" stroke="#000" stroke-width="3"/>
+  <text x="478" y="252" font-family="Space Grotesk, Arial" font-size="26" font-weight="700" fill="#000">Cybersecurity</text>
+  <text x="478" y="292" font-family="Space Grotesk, Arial" font-size="20" fill="#111">OpenAI GPT-5.4-Cyber</text>
+  <text x="478" y="324" font-family="Space Grotesk, Arial" font-size="18" fill="#111">Defensive workflows</text>
+  <text x="478" y="352" font-family="Space Grotesk, Arial" font-size="18" fill="#111">Vulnerability analysis</text>
+  <text x="478" y="380" font-family="Space Grotesk, Arial" font-size="18" fill="#111">Human oversight: High</text>
+
+  <rect x="810" y="210" width="300" height="250" rx="18" fill="#cef4ff" stroke="#000" stroke-width="3"/>
+  <text x="838" y="252" font-family="Space Grotesk, Arial" font-size="26" font-weight="700" fill="#000">Transportation</text>
+  <text x="838" y="292" font-family="Space Grotesk, Arial" font-size="20" fill="#111">WeRide + Uber</text>
+  <text x="838" y="324" font-family="Space Grotesk, Arial" font-size="18" fill="#111">Driverless robotaxi</text>
+  <text x="838" y="352" font-family="Space Grotesk, Arial" font-size="18" fill="#111">Commercial ride-hailing</text>
+  <text x="838" y="380" font-family="Space Grotesk, Arial" font-size="18" fill="#111">Human oversight: High</text>
+
+  <rect x="90" y="500" width="1020" height="40" rx="12" fill="#00bcd4" opacity="0.18"/>
+  <text x="118" y="527" font-family="Space Grotesk, Arial" font-size="20" font-weight="700" fill="#000">Theme: AI is moving from hype into real business workflows with human oversight still needed.</text>
+</svg>
